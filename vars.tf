@@ -4,3 +4,4 @@ variable "name" {}
 variable "instance_type" {}
 variable "zone_id" {}
 variable  "MYSQL_PSW" {}
+variable "components" {}
